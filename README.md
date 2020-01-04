@@ -21,10 +21,14 @@ From the imported data use Pandas to clean and merge the two csv files.  From th
 
 ## Plots for Graphs
 
-<img src="https://github.com/ktung1189/Matplotlib/blob/master/Tumor%20Response%20to%20Treatment.png" alt='Tumor Reponse'>
+***Tumor Response***
+<img src="https://github.com/ktung1189/Matplotlib/blob/master/Images/Tumor%20Response%20to%20Treatment.png" alt='Tumor Reponse'>
 
-<img src="https://github.com/ktung1189/Matplotlib/blob/master/Metastatic%20Sites%20Response%20to%20Treatment.png" alt='Metastatic site'>
+***Metastatic Sites Response***
+<img src="https://github.com/ktung1189/Matplotlib/blob/master/Images/Metastatic%20Sites%20Response%20to%20Treatment.png" alt='Metastatic site'>
 
-<img src="https://github.com/ktung1189/Matplotlib/blob/master/Survival%20During%20Treatment.png" alt='Survival'>
+***Survival During Treatment***
+<img src="https://github.com/ktung1189/Matplotlib/blob/master/Images/Survival%20During%20Treatment.png" alt='Survival'>
 
-<img src="https://github.com/ktung1189/Matplotlib/blob/master/Mean%20Tumor%20Change.png" alt='Mean Tumor Change'>
+***Mean Tumor Change***
+<img src="https://github.com/ktung1189/Matplotlib/blob/master/Images/Mean%20Tumor%20Change.png" alt='Mean Tumor Change'>
